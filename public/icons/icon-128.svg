@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Security Deposit Recovery">
+  <rect width="128" height="128" rx="26" fill="#2563EB"/>
+  <path d="M34 38h60v52H34z" fill="#FFFFFF"/>
+  <path d="M44 50h40M44 62h40M44 74h24" stroke="#2563EB" stroke-width="6" stroke-linecap="round"/>
+  <path d="M82 78l8 8 18-22" fill="none" stroke="#0F766E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
