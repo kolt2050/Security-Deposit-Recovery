@@ -8,6 +8,7 @@ Manifest V3 Chrome/Edge extension for US renters preparing a local security depo
 npm install
 npm run dev
 npm run build
+npm run build:zip
 ```
 
 ## Load in Chrome or Edge
@@ -18,4 +19,8 @@ npm run build
 4. Choose "Load unpacked".
 5. Select the `dist` directory.
 
-All case data stays in `chrome.storage.local`. The extension does not use AI, remote APIs, authentication, or backend services.
+## Publish Package
+
+Run `npm run build:zip`, then upload `security-deposit-recovery.zip` to the Chrome Web Store Developer Dashboard.
+
+All case data stays in `chrome.storage.local`. The extension does not use AI, remote APIs, authentication, analytics, or backend services.
