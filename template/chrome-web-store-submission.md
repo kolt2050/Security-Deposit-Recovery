@@ -15,7 +15,7 @@ security-deposit-recovery.zip
 After publishing the `docs/` folder with GitHub Pages or another static host, use:
 
 ```text
-https://YOUR_DOMAIN_OR_GITHUB_PAGES_URL/privacy-policy.html
+https://kolt2050.github.io/Security-Deposit-Recovery/privacy-policy.html
 ```
 
 ## Short Description
