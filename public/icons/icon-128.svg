@@ -1,6 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Security Deposit Recovery">
-  <rect width="128" height="128" rx="26" fill="#2563EB"/>
-  <path d="M34 38h60v52H34z" fill="#FFFFFF"/>
-  <path d="M44 50h40M44 62h40M44 74h24" stroke="#2563EB" stroke-width="6" stroke-linecap="round"/>
-  <path d="M82 78l8 8 18-22" fill="none" stroke="#0F766E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect width="128" height="128" rx="28" fill="#2563EB"/>
+  <circle cx="50" cy="43" r="15" fill="#FFFFFF"/>
+  <path d="M25 94c2.8-20.5 15.2-31 25-31s22.2 10.5 25 31" fill="#FFFFFF"/>
+  <rect x="57" y="52" width="46" height="35" rx="7" fill="#EFF6FF"/>
+  <path d="M61 57l19 16 19-16" fill="none" stroke="#2563EB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M62 82l13-12M98 82L85 70" fill="none" stroke="#93C5FD" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="91" cy="91" r="20" fill="#FF5A1F"/>
+  <path d="M81 91l7 7 14-16" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
